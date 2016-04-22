@@ -1,0 +1,16 @@
+[
+{
+  "modid": "logifood",
+  "name": "Logical Food",
+  "description": "Logical Food recipes for Pam's Harvestcraft",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Anorak","linuxdemon"],
+  "credits": "Atzenarii for textures",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
