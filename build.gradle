@@ -18,12 +18,14 @@ buildscript {
 apply plugin: 'forge'
 
 version = "0.1"
-group= "com.anorak.calcmod" // http://maven.apache.org/guides/mini/guide-naming-conventions.html
-archivesBaseName = "calcmod"
+group= "com.anorak.ingamecalc" // http://maven.apache.org/guides/mini/guide-naming-conventions.html
+archivesBaseName = "ingamecalc"
 
 minecraft {
     version = "1.7.10-10.13.4.1614-1.7.10"
     runDir = "eclipse"
+    replaceIn "IGC.java"
+    replace "@VERSION@", project.version
 }
 
 dependencies {
