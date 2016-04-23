@@ -1,14 +1,14 @@
 [
 {
-  "modid": "logifood",
-  "name": "Logical Food",
-  "description": "Logical Food recipes for Pam's Harvestcraft",
+  "modid": "ingamecalc",
+  "name": "In Game Calculator",
+  "description": "An In Game Calculator for Minecraft",
   "version": "${version}",
   "mcversion": "${mcversion}",
   "url": "",
   "updateUrl": "",
   "authorList": ["Anorak","linuxdemon"],
-  "credits": "Atzenarii for textures",
+  "credits": "",
   "logoFile": "",
   "screenshots": [],
   "dependencies": []
